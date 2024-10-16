@@ -19,15 +19,17 @@ A partir da tabela principal, foram criadas as seguintes tabelas de dimensão:
 
 A tabela de calendário foi gerada a partir da função `CALENDARAUTO()`, abrangendo todas as datas da tabela principal. As colunas adicionais incluem:
 
-- **Ano:**
-  ```DAX
-  Year = YEAR(D_Calendário[Date])
-  Month = FORMAT(D_Calendário[Date], "MMMM")
-  Quarter = "Q" & QUARTER(D_Calendário[Date])
+- **Ano:** `Year = YEAR(D_Calendário[Date])`
+- **Mês:** `Month = FORMAT(D_Calendário[Date], "MMMM")`
+- **Trimestre:** `Quarter = "Q" & QUARTER(D_Calendário[Date])`
 
-  Essas colunas ajudam a segmentar e organizar os dados de forma mais detalhada, permitindo análises temporais eficientes.
+Essas colunas ajudam a segmentar e organizar os dados de forma mais detalhada, permitindo análises temporais eficientes.
 
-🚀 Como Executar o Projeto
-Baixar o arquivo PBIX: Abra o arquivo projeto_dash_e-commerce_modulo4.pbix no Power BI.
-Conectar aos dados: Verifique se a planilha Financial_Sample_Modulo4.xlsx está conectada corretamente ao Power BI.
-Explorar o modelo dimensional: Examine as tabelas e colunas criadas, e veja como os dados foram modelados para otimizar as análises.
+---
+
+## 🚀 Como Executar o Projeto
+
+1. **Baixar o arquivo PBIX:** Abra o arquivo `projeto_dash_e-commerce_modulo4.pbix` no Power BI.
+2. **Conectar aos dados:** Verifique se a planilha `Financial_Sample_Modulo4.xlsx` está conectada corretamente ao Power BI.
+3. **Explorar o modelo dimensional:** Examine as tabelas e colunas criadas e veja como os dados foram modelados para otimizar as análises.
+
