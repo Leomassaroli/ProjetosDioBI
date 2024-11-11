@@ -4,9 +4,9 @@ Bem-vindo ao repositório dos projetos realizados durante o curso **Sysvision - 
 
 ## 🗂️ Sumário
 
-- [Introdução](#introdução)
-- [Conhecimentos e Habilidades Adquiridos](#conhecimentos-e-habilidades-adquiridos)
-- [Descrição dos Projetos](#descrição-dos-projetos)
+- [Introdução](#-introdução)
+- [Conhecimentos e Habilidades Adquiridos](#-conhecimentos-e-habilidades-adquiridos)
+- [Descrição dos Projetos](#-descrição-dos-projetos)
 - [Conclusão](#-conclusão)
 - [Contato](#-contato)
 
