@@ -84,13 +84,13 @@ Para explorar cada projeto individualmente:
 ```bash
 git clone https://github.com/Leomassaroli/ProjetosDioBI
 ```
-[Voltar ao topo](#%EF%B8%8F-sumário)
-
-# Navegar pelos Projetos
+## Navegar pelos Projetos
 Cada pasta contém um projeto completo com dashboards e relatórios desenvolvidos durante o curso.
 
 ## Abrir no Power BI
 Os arquivos `.pbix` podem ser abertos diretamente no Power BI Desktop para visualização e exploração das análises.
+
+[Voltar ao topo](#%EF%B8%8F-sumário)
 
 ## 📞 Contato
 Para dúvidas ou sugestões, entre em contato:
@@ -186,13 +186,14 @@ To explore each project individually:
 ```bash
 git clone https://github.com/Leomassaroli/ProjetosDioBI
 ```
-[Back to top](#%EF%B8%8F-table-of-contents)
 
 # Browse the Projects
 Each folder contains a complete project with dashboards and reports developed during the course.
 
 ## Open in Power BI
 The .pbix files can be opened directly in Power BI Desktop for viewing and exploring the analysis.
+
+[Back to top](#%EF%B8%8F-table-of-contents)
 
 ## 📞 Contact
 For questions or suggestions, contact me:
