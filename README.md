@@ -1,4 +1,4 @@
-# Sysvision - Data Analytics com Power BI - PT/BR & [EN](#sysvision---data-analytics-with-power-bi---en---ptbr)
+# Sysvision - Data Analytics com Power BI - PT/BR & [EN](#sysvision---data-analytics-with-power-bi---en--ptbr)
 
 Bem-vindo ao repositório dos projetos realizados durante o curso **Sysvision - Data Analytics com Power BI** da **Digital Innovation One (DIO)**. Neste repositório, você encontrará uma coleção de projetos que mostram o processo de aprendizado e o desenvolvimento de habilidades essenciais em análise e visualização de dados com o Power BI.
 
@@ -99,7 +99,7 @@ Para dúvidas ou sugestões, entre em contato:
 
 ---
 
-# Sysvision - Data Analytics with Power BI - EN & [PT/BR](#sysvision---data-analytics-com-power-bi---ptbr---en)
+# Sysvision - Data Analytics with Power BI - EN & [PT/BR](#sysvision---data-analytics-com-power-bi---ptbr--en)
 
 Welcome to the repository of projects completed during the **Sysvision - Data Analytics with Power BI** course offered by **Digital Innovation One (DIO)**. In this repository, you will find a collection of projects that demonstrate the learning process and the development of essential skills in data analysis and visualization with Power BI.
 
