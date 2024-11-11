@@ -84,6 +84,7 @@ Para explorar cada projeto individualmente:
 ```bash
 git clone https://github.com/Leomassaroli/ProjetosDioBI
 ```
+[Voltar ao topo](#%EF%B8%8F-sumário)
 
 # Navegar pelos Projetos
 Cada pasta contém um projeto completo com dashboards e relatórios desenvolvidos durante o curso.
@@ -185,6 +186,7 @@ To explore each project individually:
 ```bash
 git clone https://github.com/Leomassaroli/ProjetosDioBI
 ```
+[Back to top](#%EF%B8%8F-table-of-contents)
 
 # Browse the Projects
 Each folder contains a complete project with dashboards and reports developed during the course.
