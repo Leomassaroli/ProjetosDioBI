@@ -8,7 +8,7 @@ Bem-vindo ao repositório dos projetos realizados durante o curso **Sysvision - 
 - [Conhecimentos e Habilidades Adquiridos](#-conhecimentos-e-habilidades-adquiridos)
 - [Descrição dos Projetos](#-descrição-dos-projetos)
 - [Conclusão](#-conclusão)
-- [Como utilizar este Repositório](#--como-utilizar-este-repositório)
+- [Como utilizar este Repositório](#-como-utilizar-este-repositório)
 - [Contato](#-contato)
 
 ## 📘 Introdução
@@ -110,6 +110,7 @@ Welcome to the repository of projects completed during the **Sysvision - Data An
 - [Skills and Knowledge Acquired](#-skills-and-knowledge-acquired)
 - [Project Descriptions](#-project-descriptions)
 - [Conclusion](#-conclusion)
+- [How to Use This Repository](#-how-to-use-this-repository)
 - [Contact](#-contact)
 
 ## 📘 Introduction
