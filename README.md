@@ -17,7 +17,7 @@ aplicando cada conceito em projetos práticos. O Power BI é uma ferramenta pode
 
 Abaixo, você encontrará uma descrição detalhada dos conhecimentos e habilidades adquiridos, assim como o valor prático de cada conceito no contexto de análise de dados e no ambiente de negócios.
 
-- [Voltar ao topo](#%EF%B8%8F-sumário)
+[Voltar ao topo](#%EF%B8%8F-sumário)
 
 ## 🎓 Conhecimentos e Habilidades Adquiridos
 
@@ -41,6 +41,8 @@ Abaixo, você encontrará uma descrição detalhada dos conhecimentos e habilida
 - **Descrição:** Aprendi a publicar e compartilhar relatórios no Power BI Service, mantendo visualizações acessíveis e colaborativas para outros membros da equipe.
 - **Utilidade Prática:** A capacidade de compartilhar insights com stakeholders e equipes, utilizando permissões de acesso, garante a segurança dos dados e maximiza o impacto das análises.
 
+[Voltar ao topo](#%EF%B8%8F-sumário)
+
 ## 💼 Descrição dos Projetos
 
 ### 1. Análise de Vendas e Performance
@@ -63,11 +65,15 @@ Abaixo, você encontrará uma descrição detalhada dos conhecimentos e habilida
 - **Objetivo:** Utilizar a clusterização do Power BI para identificar perfis de clientes baseados em dados demográficos e comportamentais.
 - **Aprendizado:** Introdução à análise avançada e segmentação de clientes, utilizando clusters para personalização e estratégias de marketing mais direcionadas.
 
+[Voltar ao topo](#%EF%B8%8F-sumário)
+
 ## 🏆 Conclusão
 
 A conclusão do curso **Sysvision - Data Analytics com Power BI** e a realização dos projetos consolidaram minha habilidade de transformar dados em insights acionáveis. Além de aprender a utilizar o Power BI e o DAX de forma eficiente, desenvolvi uma compreensão abrangente do papel da análise de dados na tomada de decisões estratégicas. As habilidades aqui documentadas são aplicáveis em setores variados, como vendas, finanças e operações, permitindo atender a demandas complexas de análise e visualização de dados.
 
 Compartilho este repositório como uma referência de aprendizado para outros profissionais e estudantes, proporcionando uma visão clara do poder do Power BI para quem busca uma carreira orientada por dados e insights de alto valor.
+
+[Voltar ao topo](#%EF%B8%8F-sumário)
 
 ## 🚀 Como Utilizar Este Repositório
 
@@ -89,3 +95,4 @@ Para dúvidas ou sugestões, entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Massaroli-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/leonardo-massaroli-260ba9210/)
 
+[Voltar ao topo](#%EF%B8%8F-sumário)
