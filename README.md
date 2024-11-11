@@ -17,7 +17,7 @@ aplicando cada conceito em projetos práticos. O Power BI é uma ferramenta pode
 
 Abaixo, você encontrará uma descrição detalhada dos conhecimentos e habilidades adquiridos, assim como o valor prático de cada conceito no contexto de análise de dados e no ambiente de negócios.
 
-- [Voltar ao topo](#-sumário)
+- [Voltar ao topo](#%EF%B8%8F-sumário)
 
 ## 🎓 Conhecimentos e Habilidades Adquiridos
 
